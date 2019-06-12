@@ -1,2 +1,2 @@
 # YT-Doxs-Info
-paja
+En esta pagina pondre doxs informacion etc
